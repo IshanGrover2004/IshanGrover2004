@@ -14,22 +14,28 @@
 
 ###
 
-<h2 align="left">Technology used:</h2>
+<h2 align="left">Familiar with Technology:</h2>
 
 ###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="Arch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="NeoVim logo"  />
 </div>
 
 ###
@@ -40,16 +46,16 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ishan-grover-1079a324a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="linkedin logo"  />
+    <img width="5" />
   </a>
   <a href="https://twitter.com/Ishangrover2004" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="" alt="twitter logo"  />
+    <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="twitter logo"  />
+    <img width="5" />
   </a>
-  <a href="https://www.hackerrank.com/CSB_22B0121151" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="" alt="hackerrank logo"  />
-  </a>
-  <a href="groverishan2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="" alt="gmail logo"  />
+  <a href="mailto:groverishan2004@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="gmail logo"  />
+    <img width="5" />
   </a>
 </div>
 
