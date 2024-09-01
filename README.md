@@ -25,11 +25,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=haskell" height="40" alt="Bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
@@ -60,3 +64,9 @@
 </div>
 
 ###
+
+<h2 align="left">Resume:</h2>
+
+###
+
+[![View Resume](https://img.shields.io/badge/View%20Resume-Click%20Here-brightgreen)](https://github.com/IshanGrover2004/IshanGrover2004/blob/master/resume.pdf)
